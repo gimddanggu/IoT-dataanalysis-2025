@@ -176,7 +176,7 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})   ## seabo
 - 무게 = a x 길이^2 + b x 길이 + c
     - 회귀선이 곡선으로 표현
 
-- [노트북](./day02/mldl03_선형회귀.ipynb#다항회귀)
+- [노트북](./day02/mldl03_선형회귀.ipynb#Polynomial-Regression(다항회귀))
 
 #### 특성공학
 - 훈련시킬 특성이 모자랄때 기존 특성을 조합해서 새로운 특성을 만드는 과정
