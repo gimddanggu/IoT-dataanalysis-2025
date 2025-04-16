@@ -383,6 +383,17 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})   ## seabo
 ## 7일차
 
 ### 토이프로젝트
+- Cats and Dogs 이진분류 실습
+- 캐글에서 코딩하는 법
+
+- [노트북](./day07/mldl01_Cats_and_Dogs_이진분류.ipynb)
+
+- 훈련세트로 예측 결과
+
+<img src="./image/ml022.png", width="700">
+
+- Kaggle 참조 노트북
+- [노트북](./day07/mldl01_Cats_and_Dogs_이진분류.ipynb)
 
 ## 8일차
 ### 코딩테스트
